@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @japancode
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning NodeJS, C++ & Python
-
+- 👀 I’m interested in 📄 Web Dev
+- ✏️ I’m currently programming on 🐘 PHP, ✈️ NodeJS, 🚈 C# & 🐍 Python.
+- 🔍 Telegram: @japancode
